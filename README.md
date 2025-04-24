@@ -37,3 +37,6 @@ Template de experiência de trabalho: https://github.com/iuricode/readme-templat
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=george-mendonca&show_icons=true)
+
+## Obs
+Recentmente perdi meu acesso a outra conta do Github e estou tentando recuperá-la: https://github.com/georgemendonca.
